@@ -1,7 +1,8 @@
 ### Hi, I'm Emmanuel!
 
-👨🏽‍💻 AI Engineer | Exploring Innovative AI Applications in Healthcare<br/>
-🎓 Pharmacy Graduate with 3+ Years of Experience in AI/ML<br/>
+👨🏽‍💻 AI Engineer always on the look out for interesting applications of AI/ML, especially in healthcare<br/>
+🎓 Pharmacy graduate bringing a unique perspective to the field of data science<br/>
+💭 Currently on a 3 month study of Computer Vision and real world use cases
 
 ![](https://github-readme-stats.vercel.app/api?username=theguyoliver&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
