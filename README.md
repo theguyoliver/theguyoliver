@@ -1,6 +1,6 @@
 ### Hi, I'm Emmanuel!
 
-An Artificial Intelligence Engineer specialized in the Computer Vision domain. I'm always on the look out for interesting applications of AI/ML, especially in healthcare. 
+A Machine Learning Engineer specialized in the Computer Vision domain. I'm always on the look out for interesting applications of AI/ML, especially in healthcare. 
 
 ![](https://github-readme-stats.vercel.app/api?username=theguyoliver&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
